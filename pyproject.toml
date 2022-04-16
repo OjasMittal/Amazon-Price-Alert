@@ -8,6 +8,7 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.8"
 selenium = "^4.1.0"
 yagmail = "^0.15.277"
+twilio = "^7.5.0"
 
 [tool.poetry.dev-dependencies]
 
